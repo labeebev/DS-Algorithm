@@ -1,2 +1,2 @@
 # DS-Algorithm
-Revisiting Data Structures and Algorithms
+Revisiting CP, Data Structures and Algorithms
